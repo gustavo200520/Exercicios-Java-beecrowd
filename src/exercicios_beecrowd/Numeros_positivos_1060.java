@@ -15,7 +15,7 @@ public class Numeros_positivos_1060 {
             numero[cont] = teclado.nextFloat();
         }
 
-
+        //a
         for(int cont=0;cont<tamanho;cont++) {
 
             if(numero[cont]>0) {
