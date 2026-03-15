@@ -1,7 +1,7 @@
 package exercicios_beecrowd.inciante;
-
 import java.io.IOException;
 import java.util.Scanner;
+
 //Lembrar que no beecrowd a classe deve ser Main nao pode ter o package
 public class Ex1064 {
 	public static void main(String[] args) throws IOException {
